@@ -1,8 +1,8 @@
-# Hola! Me llamo *John Doe*
+# Hola! Me llamo *Angel Ricalde*
 
-- A mi me gusta jugar videojuegos como Stardew Valley y Hollow Knight!
+- Me gustan crear cosas que caen en categoría arte (Pintura, dibujo etc)
 
-- Me gustaría aprender acerca de *desarrollo web* y d*esarrollo de aplicaciones*
+-Me interesa el Game Development
 
-> Mi materia favorita es *Fundamentos de Ingeniería de Software*
+Mi materia favoria es Fundamentos de Ingenieria de Software
 
